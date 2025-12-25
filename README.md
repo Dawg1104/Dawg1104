@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dawg1104
-- 👀 I’m interested in coding
-- 🌱 I’m currently doing OpenGL with C++
+- 🌱 I’m currently Marching my Rays
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
