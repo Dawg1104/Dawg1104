@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Dawg1104
-- 🌱 I’m currently Marching my Rays
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Dawg1104;
+- 💞️ I’m looking to collaborate on any type of Graphics stuff;
+- Reach ne at dapickledill76@gmail.com
 
 <!---
 Dawg1104/Dawg1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
